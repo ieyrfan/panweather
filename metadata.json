@@ -1,0 +1,8 @@
+{
+  "name": "PanWeather",
+  "description": "The ultimate all-encompassing weather experience. Real-time forecasts, historical data, and AI-powered weather insights across the globe.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
